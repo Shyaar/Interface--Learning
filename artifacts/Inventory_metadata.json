@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "flour",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Interface.sol": "Inventory"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Interface.sol": {
+			"keccak256": "0x554f5dcbdd375b364953cefaf70b07db379a014aef280f158d29a464e7b14543",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://81118c115ab17174ebb3192ccbb859d32437566a91f5b3a7cd37a155d2666b40",
+				"dweb:/ipfs/QmbGXaJ6da6RxgskSfcEr9PGCcJ6mxfJDkPXfBgpTLLYFm"
+			]
+		}
+	},
+	"version": 1
+}
