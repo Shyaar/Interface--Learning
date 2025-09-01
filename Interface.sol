@@ -61,4 +61,6 @@ contract BakeryInventory {
         Sugar_ = sugar;
         Eggs_ = eggs;
     }
+
+    
 }
